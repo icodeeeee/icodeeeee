@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/473eb0ed-c1d2-4bc9-b97b-d8a3618f7815" height="1024" alt="linkedin logo"  />
+  <img src="https://github.com/user-attachments/assets/473eb0ed-c1d2-4bc9-b97b-d8a3618f7815" height="512" alt="linkedin logo"  />
 </div>
 
 ###
